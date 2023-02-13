@@ -913,7 +913,7 @@ Search &amp; control an mpd server from Alfred.</string>
 		<key>MAX_RESULTS</key>
 		<string>500</string>
 		<key>MPC</key>
-		<string>/usr/local/bin/mpc</string>
+		<string>/opt/homebrew/bin/mpc</string>
 		<key>MPD_HOST</key>
 		<string>localhost</string>
 		<key>MPD_PASSWORD</key>
